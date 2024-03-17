@@ -39,9 +39,9 @@ python3 -m pip install --upgrade Pillow
 
 You can customize the optimization parameters such as:
 
-- maximum file size (`max_size_kb`)
-- maximum width (`max_width`)
-- maximum iterations (`max_iterations`)
+- Maximum file size (`MAX_SIZE_KB`)
+- Maximum width (`MAX_WIDTH_PX`)
+- Default quality (`DEFAULT_QUALITY`)
 
 ## Requirements
 
